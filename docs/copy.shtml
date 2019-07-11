@@ -1,0 +1,90 @@
+﻿<html>
+<title>暮光之魂免责声明</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="">
+<meta name="author" content="">
+<meta name="keywords" content="">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Mobile Specific Meta  -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!-- Design:stev888|Audit:Ning_yin|Last Edit:2019-7-10|Creation date:2019-7-9 -->
+<!-- All css files are included here. -->
+<!-- APlayer css -->
+<link rel="stylesheet" href="https://oss-img.4mg.top/css/APlayer.min.css">
+<!-- Bootstrap fremwork main css -->
+<link rel="stylesheet" href="https://oss-img.4mg.top/web/2019/tss/css/bootstrap.min.css">
+<!-- Owl Carousel main css -->
+<link rel="stylesheet" href="https://oss-img.4mg.top/web/2019/tss/css/owl.carousel.min.css">
+<!-- This core.css file contents all plugings css file. -->
+<link rel="stylesheet" href="https://oss-img.4mg.top/web/2019/tss/css/core.css">
+<!-- Theme main style -->
+<link rel="stylesheet" href="https://oss-img.4mg.top/web/2019/tss/css/style.css">
+<!-- Responsive css -->
+<link rel="stylesheet" href="https://oss-img.4mg.top/web/2019/tss/css/responsive.css">
+<!-- User style -->
+<link rel="stylesheet" href="https://oss-img.4mg.top/web/2019/tss/css/custom.css">
+<!-- Font css-->
+<link rel="stylesheet" href="https://oss-img.4mg.top/css/font-awesome.css">
+<link rel="stylesheet" href="https://oss-img.4mg.top/css/font-awesome.min.css">
+<!--[if lt IE 9]>
+	<script src="https://oss-img.4mg.top/web/2019/tss/js/html5shiv.js"></script>
+	<script src="https://oss-img.4mg.top/web/2019/tss/js/respond.min.js"></script>
+	<![endif]-->
+</head>
+<body id="top">
+<!-- preloader area start -->
+<div id="preloader">
+	<div class="preloader-inner">
+		<div class="sk-chasing-dots">
+			<div class="sk-child sk-dot1"></div>
+			<div class="sk-child sk-dot2"></div>
+		</div>
+	</div>
+</div>
+<!--#include file="header.php"-->
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<br /> 
+<br /> 
+<br /> 
+<p><center><font size="10px" color="black">暮光之魂版权声明</font></center></p>
+<br /> 
+<br /> 
+<ul style="font-size: 8px; color:black;">
+<p>
+<b>    一、暮光之魂论坛隶属于暮光之魂游戏交流。声明对下列信息拥有版权：</b>
+<p>
+1、暮光之魂所有网页；
+<p>
+2、论坛、暮光系下所有域名；<a href="http://n.4mg.top/domain/all.shtml">（查看全部）</a>
+<p>
+3、部落、贴吧发表的有关本服的文字、图片；
+<p>
+ 4、网页源代码、任何委托发布的文字、图片。
+<p>
+<b>二、未经暮光之魂授权许可，任何个人、媒体、网站、团体不得转载、链接、转贴或以其他方式复制发表暮光之魂和暮光之魂论坛的所有拥有版权的信息，包括在论坛上发表的著作权人委托禁止任何媒体在未获得书面授权的情况下转载的作品，或在非暮光之魂所属的服务器上建立镜像。</b>
+<p>
+<b>三、需要使用暮光之魂官网和暮光之魂论坛或链接网址的个人、媒体、网站、团体，请与暮光之魂联系。相关授权使用者，在使用时必须注明作者名及稿件来源“暮光之魂”或“魂论坛”署名。</b>
+<p>
+<b>四、本网站的部分转载仅仅出于传递更多信息的目的，并不代表赞同其观点或证实其内容的真实性。如其他个人、媒体、网站、团体从本网下载使用，自负相关法律责任。如擅自更改为“稿件来源：暮光之魂官网”，将依法追究相关责任。</b>
+<p>
+<b>五、 如需转本网及论坛享有版权的作品，请与本网联系。</b> 
+<br /> 
+<br />
+<br /> 
+<br />
+<br /> 
+<br /></center>
+<!-- scrollup area start -->
+<a class="scrollup__btn scroller" href="#top"><i class="fa fa-angle-up"  style="margin-top:6px"></i></a>
+<!-- scrollup area end -->
+<!-- Placed js at the end of the document so the pages load faster -->
+<!--#include file="footer.php"-->
+<!-- jquery latest version -->
+<script src="https://oss-img.4mg.top/web/2019/tss/js/jquery-3.2.0.min.js"></script>
+<!-- Bootstrap framework js -->
+<script src="https://oss-img.4mg.top/web/2019/tss/js/bootstrap.min.js"></script>
+<!-- All js plugins included in this file. -->
+<script src="https://oss-img.4mg.top/web/2019/tss/js/plugins.js"></script>
+<!-- Theme js file that contents all jQuery plugins activation. -->
+<script src="https://oss-img.4mg.top/web/2019/tss/js/theme.js"></script>
+</html>
